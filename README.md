@@ -3,7 +3,7 @@ An example server and client that functions like a full-fledged socket applicati
 
 Socket programming done here is complete with its own custom header and content. 
 
-It supports simaltaneous multi-connection with the help of `selector` module in python .
+It supports simultaneous multi-connection with the help of `selector` module in python .
 
 First, let’s start the server:
 
